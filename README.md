@@ -6,7 +6,10 @@
 
 <div align="center">
 <p align="center">
-  <img height="380px" src="https://github.com/diogo0254jf/hr-system/blob/main/223790003-471211d6-dc89-4f96-882f-1e58ca0771fc.gif?raw=true" />
+  <div>
+  <a href="https://github.com/MarcoGuedess">
+  <img height-"180em" src="https://github-readme-stats.vercel.app/api?username=MarcoGuedess&show_icons=true&theme=radical&count_private=true"
+</div>
 </p>
 </div>
 
