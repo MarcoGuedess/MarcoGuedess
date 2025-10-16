@@ -12,8 +12,8 @@ Estudadente de Sistemas de Informação, sou apaixonado com jogos e programaçã
 
 <div>
 <br>
-  <a href="https://github.com/saraingridsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraingridsousa&layout=compact&theme=radical"/>
+  <a href="https://github.com/MarcoGuedess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoGuedess&layout=compact&theme=radical"/>
  <br> 
 </div>
 
