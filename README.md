@@ -1,4 +1,4 @@
-### Marco Guedesaqui :)
+### Marco Guedes
 Estudadente de Sistemas de Informação, sou apaixonado com jogos e programação front e back-end
 - 👩🏻‍💻 Buscando aprender cada vez mais sobre programação e todos os seus misterios
 - 🧗🏼 Apaixonado por **jogos**
